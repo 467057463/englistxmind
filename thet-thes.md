@@ -70,9 +70,9 @@ adv. 假设地，假定地
 n. 对立面、对照；对比；
 > [-is]名词后缀
 > 放在相反位置上的东西 -> 对立面、对照、对比
+> 复数该is为es antitheses
 > 76
 
-* 复数antitheses
 ### anti-thet-ic
 ajd. 对立的；对照的；对偶的
 > [-ic、-ical ] ...的  形容词后缀
